@@ -1,0 +1,38 @@
+{
+  "os": "macOS-13.5-arm64-arm-64bit",
+  "python": "CPython 3.9.6",
+  "startedAt": "2026-02-28T18:02:28.499448Z",
+  "args": [
+    "config/basic.py"
+  ],
+  "program": "/Users/cobymcclellan/GitHub/Comp560-Latin-Addition-/latin-numbers/../../comp560-nanoGPT/train.py",
+  "git": {
+    "remote": "https://github.com/cmcclellan79/Comp560-Latin-Addition-",
+    "commit": "8e251cac4e42093a61a4b05d3cfcf69ea3fcd050"
+  },
+  "email": "mcclellc@dickinson.edu",
+  "root": "/Users/cobymcclellan/GitHub/Comp560-Latin-Addition-/latin-numbers",
+  "host": "Cobys-Air-2.lan",
+  "executable": "/Users/cobymcclellan/GitHub/Comp560-Latin-Addition-/venv/bin/python",
+  "cpu_count": 8,
+  "cpu_count_logical": 8,
+  "disk": {
+    "/": {
+      "total": "245107195904",
+      "used": "150407639040"
+    }
+  },
+  "memory": {
+    "total": "8589934592"
+  },
+  "apple": {
+    "name": "Apple M1",
+    "ecpuCores": 4,
+    "pcpuCores": 4,
+    "gpuCores": 7,
+    "memoryGb": 8,
+    "swapTotalBytes": "12884901888",
+    "ramTotalBytes": "8589934592"
+  },
+  "writerId": "nqgfqucd41ii7sk6q4p9nhug0enebndr"
+}

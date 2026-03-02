@@ -38,4 +38,4 @@ always_save_checkpoint = True
 # wandb logging
 wandb_log = True
 wandb_project = 'comp560-latin-numbers'
-wandb_run_name = 'basic-200-iters-test'
+wandb_run_name = 'basic-2000-iters'
